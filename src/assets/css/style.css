@@ -1,0 +1,107 @@
+h1{
+	color:red;
+}
+.box {
+    box-shadow: 2px 5px 20px #d5d5d5;
+    margin: 53px 20px;
+}
+.heading-member {
+    padding: 20px 15px 0; 
+    font-size: 20px;
+    font-weight: bold;
+}
+
+
+/** 27-6-2018 **/
+
+.login-page {
+    margin: 0;
+}
+
+.login {
+	max-width: 500px;
+	width: 100%;
+	background-color: #f3f3f3;
+	border: 1px solid #c3c3c3;
+	margin: 0 auto;
+	padding: 30px 130px 50px;
+	margin-top: 70px;
+}
+
+.login div {
+    width: 100% !important;
+}
+
+.login div .submit-btn {
+    margin: 0px !important;
+    margin-top: 0px;
+    margin-top: 30px !important;
+}
+
+.login div:last-child {
+    margin-left: 0px !important;
+    margin-right: 0px !important;
+}
+
+.login div:nth-child(2) {
+    margin-bottom: 20px !important;
+}
+
+.login.page div:nth-child(2) {
+    margin-bottom: 0px !important;
+}
+
+.login.page div:nth-child(4) {
+    margin-bottom: 20px !important;
+}
+
+.home-page .inner h1 {
+    margin-top: 70px;
+}
+
+.home-page .inner {
+    text-align: center;
+}
+
+.login-password {
+    text-align: right;
+    /* margin-right: 11.7%; */
+    margin-top: 20px;
+}
+
+.login-page.edit-profile .login {
+    margin-top: 30px;
+}
+
+.password-btn button {
+    background-color: orange !important;
+}
+
+.login.login-div .submit-btn {
+    margin-left: 0px !important;
+}
+
+.login.page .submit-btn {
+    margin-left: 0px !important;
+}
+
+.login-register button {
+    width: 100%;
+}   
+
+.login-register button {
+    width: 100%;
+    color: rgb(0, 188, 212);
+    border: 1px solid rgb(0, 188, 212);
+    border-radius: 16px;
+    height: 34px;
+}
+
+.submit-btn {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.submit-btn button {
+    border-radius: 16px !important;
+}
